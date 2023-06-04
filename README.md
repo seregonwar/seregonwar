@@ -10,7 +10,7 @@ I am the founder of Maudrigal, an IT student, and I'm about to enroll at La Sapi
 - 👯 Looking to collaborate on open-source projects.
 - 💬 Feel free to ask me anything related to programming or technology.
 - 📫 How to reach me: [seregonwar@gmail.com](mailto:seregonwar@gmail.com)
-- 😄 Fun fact: I enjoy playing the videogames in my free time.
+- 😄 Fun fact: I enjoy playing video games and studying history in my free time.
 
 ## Skills
 
