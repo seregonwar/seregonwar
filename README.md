@@ -1,7 +1,5 @@
 # Seregon
 
-![Profile Banner](banner.jpg)
-
 Hello, I'm Seregon! 👋
 You can use the pronouns he/him when referring to me.
 
