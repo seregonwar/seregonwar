@@ -1,7 +1,7 @@
 # Seregon
 
 Hello, I'm Seregon! 👋
-I am the founder of Maudrigal, an IT student, and I'm about to enroll at La Sapienza computer science faculty in Rome.
+I am the future founder of Maudrigal, an IT student, and I'm about to enroll at La Sapienza computer science faculty in Rome.
 ## Passions
 I am an active member of the community around console modding, if you browse through my repositories you will surely find something related to consoles modding :)
 ## About Me
