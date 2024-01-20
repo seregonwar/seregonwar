@@ -18,7 +18,7 @@ I am an active member of the community around console modding, if you browse thr
 - Programming languages: Python, Java, C++
 - Web development: HTML, CSS, JavaScript
 - Version control: Git
-- Operating systems: Windows, Linux
+- Operating systems: Windows, Linux, mac
 
 ## Projects
 
