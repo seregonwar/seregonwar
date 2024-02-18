@@ -15,7 +15,7 @@ I am an active member of the community around console modding, if you browse thr
 
 ## Skills
 
-- Programming languages: Python, Java, C++
+- Programming languages: Python, Java, C++, Docker
 - Web development: HTML, CSS, JavaScript
 - Version control: Git
 - Operating systems: Windows, Linux, MacOS
