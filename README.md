@@ -25,6 +25,14 @@ I am an active member of the community around console modding, if you browse thr
 - **Maudrigal**: Maudrigal is a company that encompasses potential that you cannot understand if you do not see it with your own eyes, which is why I advise you to learn more about it. [maudrigal.com](https://www.maudrigal.com)
 - **Portfolio Website**: My personal portfolio website showcasing my projects and skills. [seregon.com](https://www.seregon.com)
 
+## Stats
+![seregonwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=dark)
+## Best Repository
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=APFU-PupFileUnziper&theme=dark)](https://github.com/seregonwar/APFU-PupFileUnziper)
+## Most Used Languages
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&size_weight=0.5&count_weight=0.5&theme=dark)
+
+
 Feel free to reach out to me if you have any questions or if you'd like to collaborate on a project!
 
 Let's connect and build something amazing together! 🚀
