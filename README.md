@@ -19,6 +19,8 @@ I am an active member of the community around console modding, if you browse thr
 - Web development: HTML, CSS, JavaScript, typescript, react
 - Version control: Git
 - Operating systems: Windows, Linux, MacOS
+- IDE: <img src="https://img.shields.io/badge/VS Code-282C34?logo=visual-studio-code&logoColor=007ACC" alt="Visual Studio Code logo" title="Visual Studio Code" height="25" />
+&nbsp;
 
 ## Projects
 
