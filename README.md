@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1c1c1c&height=200&section=header&text=Seregon&fontSize=50&fontColor=ffffff&fontAlignY=40)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=200&section=header&text=Seregon&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=0)
 
 Hello, I'm Seregon! 👋
 I am the founder of Maudrigal, an IT student, and I'm about to enroll at La Sapienza computer science faculty in Rome.
