@@ -1,7 +1,7 @@
-# Seregon
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:2d2d2d,100:1c1c1c&height=200&section=header&text=Seregon&fontSize=50&fontColor=ffffff&fontAlignY=40)
 
 Hello, I'm Seregon! 👋
-I am the future founder of Maudrigal, an IT student, and I'm about to enroll at La Sapienza computer science faculty in Rome.
+I am the founder of Maudrigal, an IT student, and I'm about to enroll at La Sapienza computer science faculty in Rome.
 ## Passions
 I am an active member of the community around console modding, if you browse through my repositories you will surely find something related to consoles modding :)
 ## About Me
@@ -28,13 +28,12 @@ I am an active member of the community around console modding, if you browse thr
 - **Portfolio Website**: My personal portfolio website showcasing my projects and skills. [seregon.com](https://www.seregon.com)
 
 ## Stats, Best Repository and Most Used Languages
+
 ![seregonwar's GitHub stats](https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=APFU-PupFileUnziper&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)](https://github.com/seregonwar/APFU-PupFileUnziper)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
-
-
 
 ---
 
@@ -45,6 +44,7 @@ I am an active member of the community around console modding, if you browse thr
 
 
 ---
+
 <div id="header" align="center">
   <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=orange" alt=""/>
 </div>
