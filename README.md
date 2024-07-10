@@ -33,7 +33,7 @@ I am an active member of the community around console modding, if you browse thr
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=APFU-PupFileUnziper&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)](https://github.com/seregonwar/APFU-PupFileUnziper)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?count_private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&private=true&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide_border=true&border_radius=5&card_width=800?count)
 
 ---
 
