@@ -26,7 +26,7 @@ I am an active member of the Sony console modding community. If I touched an Xbo
 - **Web development**: HTML, CSS, JavaScript, TypeScript, React
 - **Version control**: Git
 - **Operating systems**: Windows, Linux, macOS
-- **IDE**: Visual Studio 2022, Visual Studio Code, Cursor
+- **IDE**: Visual Studio 2022, Visual Studio Code, Cursor and Eclipse
 
 ---
 
