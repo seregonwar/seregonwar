@@ -33,7 +33,7 @@ I am an active member of the Sony console modding community. If I touched an Xbo
 ## Projects
 - **Maudrigal**: A personal abstract project I hope to shape in the future. The link to the site is inactive, but if I bring this project to life, you'll know! [maudrigal.com](https://www.maudrigal.com)
 - **Portfolio Website**: My personal portfolio, currently inactive. Maintaining a live website is surprisingly expensive! Hopefully, I’ll get around to fixing it. In the meantime, feel free to check my projects in the repository section. [seregon.com](https://www.seregon.com)
-
+- **CyberHarmonix**: My personal discord bot, check the [repository](https://github.com/seregonwar/CyberHarmonix)
 ---
 
 ## Stats, Best Repositories, and Most Used Languages
