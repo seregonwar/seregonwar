@@ -22,7 +22,8 @@ I am an active member of the Sony console modding community. If I touched an Xbo
 ---
 
 ## Skills
-- **Programming languages**: Python, Java, C++, swift, Docker
+- **Programming languages**: Python, Java, C++, swift
+- **Framework**: docker, .NET
 - **Web development**: HTML, CSS, JavaScript, TypeScript, React
 - **Version control**: Git
 - **Operating systems**: Windows, Linux, macOS
