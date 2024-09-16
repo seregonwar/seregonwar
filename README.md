@@ -1,62 +1,79 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=200&section=header&text=Seregon&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=0)
 
 # Hi, it's Seregon! 👋
-I am a huge computer science enthusiast currently pursuing my degree in computer engineering at La Sapienza University.
 
-## Passions
-I am an active member of the Sony console modding community. If I touched an Xbox, I would probably brick it! 😅 If you browse through my repositories, you’ll definitely find something related to console modding.
-
-**P.S.** I’ve developed a payload injector and an unpacker that I’m very proud of, which allows the decryption and unpacking of `.PUP` update files for PlayStation 3/4. The project is currently down due to a few issues, but I plan to revive it and make it compatible with `.PUP` files for PlayStation 5 as well.
+🎓 **Computer Science Enthusiast & Modding Expert**  
+I'm currently pursuing my degree in **Computer Engineering** at **La Sapienza University** in Rome.
 
 ---
 
-## About me
+## 💻 Passions
 
-- 🔭 I’m currently working on various programming projects.
-- 🌱 I love learning and exploring new technologies, particularly in artificial intelligence and its applications across different fields.
-- 👯 I try to collaborate on open-source projects by providing feedback and participating actively in development.
-- 💬 Feel free to ask me anything related to programming or tech. I may not always know the answer, but I’ll definitely try!
-- 📫 How to reach me: [seregonwar@gmail.com](mailto:seregonwar@gmail.com)
-- 😄 Fun fact: In my spare time, I enjoy playing video games and studying history.
+🎮 I am an active member of the **Sony console modding community**. If I touched an Xbox, I'd probably brick it! 😅  
+Feel free to browse through my repositories—you're likely to find something related to console modding.
+
+> **P.S.** I’ve developed a **payload injector** and an **unpacker** for `.PUP` files (PlayStation Update Packages). Although the project is currently down due to some issues, I plan to revive it and extend compatibility to **PlayStation 5** `.PUP` files.
 
 ---
 
-## Skills
-- **Programming languages**: Python, Java, C++, swift
-- **Framework**: docker, .NET, Flask, Qt creator, React Native, Flutter
-- **Web development**: HTML, CSS, JavaScript, TypeScript, React
-- **Version control**: Git
-- **Operating systems**: Windows, Linux, macOS
-- **IDE**: Visual Studio 2022, Visual Studio Code, Cursor and Eclipse
+## 🚀 About Me
+
+- 🔭 **Currently working on:** Various **programming projects**.
+- 🌱 **Passionate about:** Learning new technologies, especially **artificial intelligence**.
+- 👯 **Collaborating on:** Open-source projects—offering feedback and contributing to development.
+- 💬 **Ask me about:** Anything tech-related! I love to help when I can.
+- 📫 **Reach me at:** [seregonwar@gmail.com](mailto:seregonwar@gmail.com)
+- 🎮 **Fun fact:** When I’m not coding, I’m probably playing video games or studying history!
 
 ---
 
-## Projects
-- **Maudrigal**: A personal abstract project I hope to shape in the future. The link to the site is inactive, but if I bring this project to life, you'll know! [maudrigal.com](https://www.maudrigal.com)
-- **Portfolio Website**: My personal portfolio, currently inactive. Maintaining a live website is surprisingly expensive! Hopefully, I’ll get around to fixing it. In the meantime, feel free to check my projects in the repository section. [seregon.com](https://www.seregon.com)
-- **CyberHarmonix**: My personal discord bot, check the [repository](https://github.com/seregonwar/CyberHarmonix)
-- **PFU-PupFileUnpacker**: My all in one tool for unpacking .PUPs file(Playstation Update Package), currently also my project that has received more stars. Check the [repository](https://github.com/seregonwar/PFU-PupFileUnpacker)
+## 🛠️ Skills
 
-## Stats, Best Repositories, and Most Used Languages
-
-![Seregonwar's GitHub statistics](https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
-
-[![Readme tab](https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=APFU-PupFileUnziper&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)](https://github.com/seregonwar/APFU-PupFileUnziper)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&private=true&size_weight=0.5&count_weight=0.5&theme=highcontrast&hide_border=true&border_radius=5&card_width=800)
+- **Programming Languages**: ![Python](https://img.shields.io/badge/-Python-000?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-000?style=flat&logo=java) ![C++](https://img.shields.io/badge/-C++-000?style=flat&logo=cplusplus) ![Swift](https://img.shields.io/badge/-Swift-000?style=flat&logo=swift)
+- **Frameworks**: ![Docker](https://img.shields.io/badge/-Docker-000?style=flat&logo=docker) ![.NET](https://img.shields.io/badge/-.NET-000?style=flat&logo=dotnet) ![Flask](https://img.shields.io/badge/-Flask-000?style=flat&logo=flask) ![React Native](https://img.shields.io/badge/-React%20Native-000?style=flat&logo=react)
+- **Web Development**: ![HTML](https://img.shields.io/badge/-HTML-000?style=flat&logo=html5) ![CSS](https://img.shields.io/badge/-CSS-000?style=flat&logo=css3) ![JavaScript](https://img.shields.io/badge/-JavaScript-000?style=flat&logo=javascript) ![TypeScript](https://img.shields.io/badge/-TypeScript-000?style=flat&logo=typescript) ![React](https://img.shields.io/badge/-React-000?style=flat&logo=react)
+- **Version Control**: ![Git](https://img.shields.io/badge/-Git-000?style=flat&logo=git)
+- **Operating Systems**: ![Windows](https://img.shields.io/badge/-Windows-000?style=flat&logo=windows) ![Linux](https://img.shields.io/badge/-Linux-000?style=flat&logo=linux) ![macOS](https://img.shields.io/badge/-macOS-000?style=flat&logo=apple)
+- **IDEs**: ![Visual Studio](https://img.shields.io/badge/-Visual%20Studio-000?style=flat&logo=visualstudio) ![VS Code](https://img.shields.io/badge/-VS%20Code-000?style=flat&logo=visualstudiocode) ![Eclipse](https://img.shields.io/badge/-Eclipse-000?style=flat&logo=eclipse)
 
 ---
 
-<p align="center">
-  <img width="800" height="220" src="https://streak-stats.demolab.com?user=seregonwar&theme=highcontrast&hide_border=true&border_radius=5&card_width=800">
-</p>
+## 🔧 Projects
 
-<div id="header" align="center">
-  <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=orange" alt="Profile views"/>
+- **[Maudrigal](https://www.maudrigal.com)**: A personal abstract project—currently inactive, but hopefully active in the future!
+- **[Portfolio Website](https://www.seregon.com)**: My personal portfolio—currently down due to cost reasons, but check out my repositories in the meantime!
+- **[CyberHarmonix](https://github.com/seregonwar/CyberHarmonix)**: A custom Discord bot with many features.
+- **[PFU-PupFileUnpacker](https://github.com/seregonwar/PFU-PupFileUnpacker)**: My tool for unpacking `.PUP` files (PlayStation Update Packages), currently my most popular project.
+
+---
+
+## 📊 GitHub Stats, Best Repositories, and Most Used Languages
+
+<div align="center">
+
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=highcontrast&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+      <td>
+        <img src="https://my-stats-43gk.vercel.app/api/top-langs/?username=seregonwar&hide=html,scss,css&langs_count=8&layout=compact&theme=highcontrast&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=APFU-PupFileUnziper&theme=highcontrast&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+      <td>
+        <img src="https://streak-stats.demolab.com?user=seregonwar&theme=highcontrast&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+    </tr>
+  </table>
+
+  <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="Profile views"/>
+
 </div>
 
 ---
 
-Feel free to reach out if you have any questions or if you’d like to collaborate on a project!
-
-Let’s connect and build something amazing together! 🚀
+### Let’s connect and build something amazing together! 🚀
