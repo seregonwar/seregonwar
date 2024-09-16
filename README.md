@@ -1,4 +1,7 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000&height=200&section=header&text=Seregon&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=0)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000,50:f39c12&height=200&section=header&text=Seregon&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=0)
+
+
+
 
 # Hi, it's Seregon! 👋
 
