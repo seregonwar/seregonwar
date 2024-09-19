@@ -47,7 +47,7 @@ Feel free to browse through my repositories—you're likely to find something re
 - **[Portfolio Website](https://www.seregon.com)**: My personal portfolio—currently down due to cost reasons, but check out my repositories in the meantime!
 - **[CyberHarmonix](https://github.com/seregonwar/CyberHarmonix)**: A custom Discord bot with many features.
 - **[PFU-PupFileUnpacker](https://github.com/seregonwar/PFU-PupFileUnpacker)**: My tool for unpacking `.PUP` files (PlayStation Update Packages), currently my most popular project.
-- **[PWA]**(https://github.com/seregonwar/PWA): 
+- **[PWA](https://github.com/seregonwar/PWA)**:My personal webkit analyzer, It has many useful functions for troubleshooting and analyzing webkits, created specifically for Sony console but working on any browser.
 ---
 
 ## 📊 GitHub Stats, Best Repositories, and Most Used Languages
