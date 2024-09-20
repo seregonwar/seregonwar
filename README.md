@@ -26,7 +26,6 @@ Feel free to browse through my repositories—you're likely to find something re
 - 👯 **Collaborating on:** Open-source projects—offering feedback and contributing to development.
 - 💬 **Ask me about:** Anything tech-related! I love to help when I can.
 - 📫 **Reach me at:** [seregonwar@gmail.com](mailto:seregonwar@gmail.com)
-- 🎮 **Fun fact:** When I’m not coding, I’m probably playing video games or studying history!
 
 ---
 
