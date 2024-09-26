@@ -1,8 +1,5 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:ffffff,100:000000,50:f39c12&height=200&section=header&text=Seregon&fontSize=90&fontColor=ffffff&animation=fadeIn&fontAlignY=45&rotate=0)
 
-
-
-
 # Hi, it's Seregon! 👋
 
 🎓 **Computer Science Enthusiast & Modding Expert**  
@@ -49,7 +46,7 @@ Feel free to browse through my repositories—you're likely to find something re
 - **[PWA](https://github.com/seregonwar/PWA)**:My personal webkit analyzer, It has many useful functions for troubleshooting and analyzing webkits, created specifically for Sony console but working on any browser.
 ---
 
-## 📊 GitHub Stats, Best Repositories, and Most Used Languages
+## 📊 GitHub Stats, Best Repositories, Most Used Languages, and Activity Feed
 
 <div align="center">
 
@@ -68,6 +65,11 @@ Feel free to browse through my repositories—you're likely to find something re
       </td>
       <td>
         <img src="https://streak-stats.demolab.com?user=seregonwar&theme=highcontrast&hide_border=true&border_radius=10&card_width=400" />
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=seregonwar&theme=highcontrast" />
       </td>
     </tr>
   </table>
