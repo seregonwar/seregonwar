@@ -41,11 +41,10 @@ Feel free to browse through my repositories—you're likely to find something re
 
 - **[Maudrigal](https://www.maudrigal.com)**: A personal abstract project—currently inactive, but hopefully active in the future!
 - **[Portfolio Website](https://www.seregon.com)**: My personal portfolio—currently down due to cost reasons, but check out my repositories in the meantime!
-- **[CyberHarmonix](https://github.com/seregonwar/CyberHarmonix)**: A custom Discord bot with many features.
+- **[CyberHarmonix](https://github.com/seregonwar/CyberHarmonix)**: A custom Discord bot with many features, now private. its source code is no longer in the public domain.
 - **[PFU-PupFileUnpacker](https://github.com/seregonwar/PFU-PupFileUnpacker)**: My tool for unpacking `.PUP` files (PlayStation Update Packages), currently my most popular project.
 - **[PWA](https://github.com/seregonwar/PWA)**:My personal webkit analyzer, It has many useful functions for troubleshooting and analyzing webkits, created specifically for Sony console but working on any browser.
----
-
+- **[PkgToolBox](https://github.com/seregonwar/PkgToolBox)**: A multi-function toolbox for editing and analyzing pkg files.
 ## 📊 GitHub Stats, Best Repositories, Most Used Languages, and Activity Feed
 
 <div align="center">
