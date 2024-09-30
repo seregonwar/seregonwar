@@ -45,6 +45,10 @@ Feel free to browse through my repositories—you're likely to find something re
 - **[PFU-PupFileUnpacker](https://github.com/seregonwar/PFU-PupFileUnpacker)**: My tool for unpacking `.PUP` files (PlayStation Update Packages), currently my most popular project.
 - **[PWA](https://github.com/seregonwar/PWA)**:My personal webkit analyzer, It has many useful functions for troubleshooting and analyzing webkits, created specifically for Sony console but working on any browser.
 - **[PkgToolBox](https://github.com/seregonwar/PkgToolBox)**: A multi-function toolbox for editing and analyzing pkg files.
+
+## Donation
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/seregon)
+
 ## 📊 GitHub Stats, Best Repositories, Most Used Languages, and Activity Feed
 
 <div align="center">
