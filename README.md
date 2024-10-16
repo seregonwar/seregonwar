@@ -22,7 +22,7 @@ Feel free to browse through my repositories—you're likely to find something re
 - 🌱 **Passionate about:** Learning new technologies, especially **artificial intelligence**.
 - 👯 **Collaborating on:** Open-source projects—offering feedback and contributing to development.
 - 💬 **Ask me about:** Anything tech-related! I love to help when I can.
-- 📫 **Reach me at:** [seregonwar@gmail.com](mailto:seregonwar@gmail.com)
+
 
 ---
 
