@@ -76,8 +76,8 @@ Feel free to browse through my repositories—you're likely to find something re
       </td>
     </tr>
   </table>
-
-  <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="Profile views"/> 
+ 
+you are the <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="Profile views"/>!
 
 </div>
 
