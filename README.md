@@ -77,8 +77,10 @@ Feel free to browse through my repositories—you're likely to find something re
     </tr>
   </table>
  
-<p>You are the visitor number: <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="Visitor count badge"/></p>
-
+<p style="font-size: 1.2em; font-weight: bold; color: #333;">
+    You are visitor number:
+    <img src="https://komarev.com/ghpvc/?username=seregonwar&style=flat-square&color=blue" alt="Visitor count badge"/>
+</p>
 </div>
 
 ---
