@@ -77,7 +77,7 @@ Feel free to browse through my repositories—you're likely to find something re
     </tr>
   </table>
  
-you are the <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="Profile views"/>!
+ <img src="https://komarev.com/ghpvc/?username=seregonwar&style=for-the-badge&color=yellow" alt="You are the visitor number: "/>
 
 </div>
 
