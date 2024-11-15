@@ -38,7 +38,7 @@ Feel free to browse through my repositories—you're likely to find something re
 ---
 
 ## 🔧 Projects
-
+- **[MetaForge](https://github.com/seregonwar/MetaForge)**: MetaForge is a low-level meta-programming language that bridges the gap between assembly and C, while integrating support for Python, C, and C++ libraries. Designed for system-level programming and advanced memory manipulation, MetaForge offers a unique approach to multi-language interoperability and high-performance computing.
 - **[Maudrigal](https://www.maudrigal.com)**: A personal abstract project—currently inactive, but hopefully active in the future!
 - **[Portfolio Website](https://www.seregon.com)**: My personal portfolio—currently down due to cost reasons, but check out my repositories in the meantime!
 - **[CyberHarmonix](https://github.com/seregonwar/CyberHarmonix)**: A custom Discord bot with many features, now private. its source code is no longer in the public domain.
