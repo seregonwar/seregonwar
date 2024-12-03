@@ -21,7 +21,7 @@
 ## ⚡ Core Skills
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,rust,python,swift,assembly" />
+  <img src="https://skillicons.dev/icons?i=cpp,java,python,swift,assembly" />
 </div>
 
 - **Reverse Engineering** - Binary analysis & firmware modification
@@ -33,7 +33,7 @@
 ## 🔧 Tools & Environment
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,vim,vscode,git" />
+  <img src="https://skillicons.dev/icons?i=docker,linux,vscode,git" />
   
   <p>
     <img src="https://img.shields.io/badge/-IDA_Pro-8A2BE2?style=flat-square&logo=hex&logoColor=white"/>
