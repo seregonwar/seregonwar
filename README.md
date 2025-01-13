@@ -82,7 +82,7 @@
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=seregonwar&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <p style="font-style: italic; color: #9745F5">"Breaking boundaries, one byte at a time"</p>
+  <p style="font-style: italic; color: #9745F5">"If it works, don't change that shit "</p>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:4B0082,100:483D8B&height=100&section=footer)
