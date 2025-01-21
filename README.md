@@ -12,7 +12,7 @@
       <img src="https://img.shields.io/badge/-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
     </a>
         <a href="paypal.me/seregonwar">
-      <img src="https://img.shields.io/badge/-PayPal-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="PayPal"/>
+      <img src="https://img.shields.io/badge/-PayPal-1DA1F2?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
     </a>
   </p>
 </div>
