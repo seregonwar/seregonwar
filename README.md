@@ -54,6 +54,14 @@
   <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
   </a>
+    </a>
+  <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge-Compiler&theme=midnight-purple&hide_border=true" />
+  </a>
+    </a>
+  <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=AirWin&theme=midnight-purple&hide_border=true" />
+  </a>
 </div>
 
 ## 📊 GitHub Stats
