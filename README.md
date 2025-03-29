@@ -52,7 +52,7 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
   </a>
   <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=PFU-PupFileUnpacker&theme=midnight-purple&hide_border=true" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
 
