@@ -48,6 +48,9 @@
 ## 🎮 Featured Projects
 
 <div align="center">
+  <a href="https://github.com/seregonwar/PkgToolBox">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=PkgToolBox&theme=midnight-purple&hide_border=true" />
+  </a>
   <a href="https://github.com/seregonwar/MetaForge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
   </a>
@@ -55,11 +58,11 @@
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
   </a>
     </a>
-  <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+  <a href="https://github.com/seregonwar/MetaForge-Compiler">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge-Compiler&theme=midnight-purple&hide_border=true" />
   </a>
     </a>
-  <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+  <a href="https://github.com/seregonwar/AirWin">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=AirWin&theme=midnight-purple&hide_border=true" />
   </a>
 </div>
