@@ -54,7 +54,7 @@
   <a href="https://github.com/seregonwar/MetaForge">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
   </a>
-  <a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+  <a href="https://github.com/seregonwar/CoreBaseApplication">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
   </a>
     </a>
