@@ -48,30 +48,53 @@
 ## 🎮 Featured Projects
 
 <div align="center">
-  <a href="https://github.com/seregonwar/PkgToolBox">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=PkgToolBox&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/seregonwar/MetaForge">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
-  </a>
-  <a href="https://github.com/seregonwar/CoreBaseApplication">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
-  </a>
-    </a>
-  <a href="https://github.com/seregonwar/MetaForge-Compiler">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge-Compiler&theme=midnight-purple&hide_border=true" />
-  </a>
-    </a>
-  <a href="https://github.com/seregonwar/AirWin">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=AirWin&theme=midnight-purple&hide_border=true" />
-  </a>
+
+  <table>
+    <tr>
+      <td>
+        <a href="https://github.com/seregonwar/PkgToolBox">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=PkgToolBox&theme=midnight-purple&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/seregonwar/MetaForge">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <a href="https://github.com/seregonwar/CoreBaseApplication">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
+        </a>
+      </td>
+      <td>
+        <a href="https://github.com/seregonwar/MetaForge-Compiler">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge-Compiler&theme=midnight-purple&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2" align="center">
+        <a href="https://github.com/seregonwar/AirWin">
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=AirWin&theme=midnight-purple&hide_border=true" />
+        </a>
+      </td>
+    </tr>
+  </table>
+
+  <br/>
+
 </div>
+
+
 
 ## 📊 GitHub Stats
 
 <div align="center">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seregonwar&theme=midnight-purple&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple" alt="Top Languages"/>
 </div>
 
 ## 🎯 Current Focus
