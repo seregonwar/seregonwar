@@ -97,13 +97,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple" alt="Top Languages"/>
 </div>
 
-## 🎯 Current Focus
-
-- Advanced firmware analysis
-- Zero-day vulnerability research
-- Console security systems
-- Low-level optimization
-
 <div align="center">
   <h2>🤝 Connect</h2>
   <a href="https://discord.gg/seregonwar">
