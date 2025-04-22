@@ -89,6 +89,7 @@
 
 
 
+
 ## 📊 GitHub Stats
 
 <div align="center">
@@ -96,7 +97,11 @@
   <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seregonwar&theme=midnight-purple&hide_border=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple" alt="Top Languages"/>
 </div>
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=seregonwar&theme=radical" alt="GitHub Trophies" width="100%" />
+</div>
 
+<br />
 <div align="center">
   <h2>🤝 Connect</h2>
   <a href="https://discord.gg/seregonwar">
