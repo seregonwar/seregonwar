@@ -1,4 +1,5 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:4B0082,100:483D8B&height=250&section=header&text=Seregon&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20%7C%20Reverse%20Engineer&descAlignY=60)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=250&section=header&text=Seregon&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20%7C%20Reverse%20Engineer&descAlignY=60)
+
 
 <div align="center">
   <h1>🎭 Seregon</h1>
@@ -113,4 +114,4 @@
   <p style="font-style: italic; color: #9745F5">"If it works, don't change that shit "</p>
 </div>
 
-![footer](https://capsule-render.vercel.app/api?type=waving&color=0:800080,50:4B0082,100:483D8B&height=100&section=footer)
+![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=100&section=footer)
