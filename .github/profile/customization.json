@@ -1,0 +1,9 @@
+{
+  "theme": "system",
+  "accentColor": "#0366d6",
+  "showStats": true,
+  "showActivity": true,
+  "showLanguages": true,
+  "customCss": "",
+  "version": "1.0.0"
+}
