@@ -1,117 +1,106 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=250&section=header&text=Seregon&fontSize=80&fontColor=ffffff&animation=twinkling&fontAlignY=40&desc=Computer%20Engineer%20%7C%20Reverse%20Engineer&descAlignY=60)
 
-
 <div align="center">
-  <h1>🎭 Seregon</h1>
-  <h3>Computer Engineer & Reverse Engineer</h3>
 
-  <p>
-    <a href="https://x.com/SeregonWar">
-      <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white" alt="Twitter"/>
-    </a>
-    <a href="https://ko-fi.com/seregon">
-      <img src="https://img.shields.io/badge/-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white" alt="Ko-fi"/>
-    </a>
-        <a href="https://paypal.me/seregonwar">
-      <img src="https://img.shields.io/badge/-PayPal-1DA1F2?style=for-the-badge&logo=paypal&logoColor=white" alt="PayPal"/>
-    </a>
-  </p>
+# 🎭 Seregon
+
+### 👨‍💻 Computer Engineer | 🕵️‍♂️ Reverse Engineer | 🎮 Console Hacker
+
+[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeregonWar)
+[![Ko-fi](https://img.shields.io/badge/-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seregon)
+[![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seregonwar)
+
 </div>
+
+---
 
 ## 👾 About Me
 
-> Cyber Security Engineer and Reverse Engineer specializing in low-level system architecture and security research. Currently pursuing Computer Engineering at La Sapienza University, Rome. Expert in console modding and vulnerability research, with a focus on PlayStation systems architecture and firmware analysis.
+> I'm a **Cyber Security Engineer** and **Reverse Engineer**, specialized in low-level systems, firmware analysis, and exploit development.  
+> Currently pursuing **Computer Engineering** at *La Sapienza University of Rome*.  
+> Passionate about **PlayStation architecture**, **console modding**, and building **custom low-level tools** for research and security auditing.
 
-## ⚡ Core Skills
+---
+
+## ⚙️ Core Competencies
+
+- 🔬 Reverse Engineering & Binary Analysis  
+- 🛠️ Exploit Development & Vulnerability Research  
+- 💻 Low-Level Programming (Assembly, C/C++, Python)  
+- 🎮 Game Console Internals & Firmware Hacking  
+- 🧰 Tooling & Automation for System Security
+
+---
+
+## 🧠 Languages & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,java,python,swift,assembly" />
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,swift,assembly,rust,bash" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,react,arduino" />
 </div>
 
-- **Reverse Engineering** - Binary analysis & firmware modification
-- **Exploit Development** - Vulnerability research
-- **Low Level Programming** - Assembly & system internals
-- **Console Engineering** - Gaming console architecture
-- **Tool Development** - Security frameworks
+---
 
-## 🔧 Tools & Environment
+## 🧪 Tools of the Trade
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=docker,linux,vscode,git" />
-  
-  <p>
-    <img src="https://img.shields.io/badge/-IDA_Pro-8A2BE2?style=flat-square&logo=hex&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-Ghidra-4A154B?style=flat-square&logo=ghidra&logoColor=white"/>
-    <img src="https://img.shields.io/badge/-WireShark-1679A7?style=flat-square&logo=wireshark&logoColor=white"/>
-  </p>
+  <img src="https://img.shields.io/badge/-IDA%20Pro-8000FF?style=flat-square&logo=hex&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Ghidra-401070?style=flat-square&logo=ghidra&logoColor=white" />
+  <img src="https://img.shields.io/badge/-WireShark-1679A7?style=flat-square&logo=wireshark&logoColor=white" />
+  <img src="https://img.shields.io/badge/-LLDB-orange?style=flat-square&logo=llvm&logoColor=white" />
+  <img src="https://img.shields.io/badge/-Radare2-000000?style=flat-square&logo=gnu&logoColor=white" />
 </div>
 
-## 🎮 Featured Projects
+---
+
+## 🚀 Featured Projects
 
 <div align="center">
 
-  <table>
-    <tr>
-      <td>
-        <a href="https://github.com/seregonwar/PkgToolBox">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=PkgToolBox&theme=midnight-purple&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/seregonwar/MetaForge">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge&theme=midnight-purple&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td>
-        <a href="https://github.com/seregonwar/CoreBaseApplication">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=CoreBaseApplication&theme=midnight-purple&hide_border=true" />
-        </a>
-      </td>
-      <td>
-        <a href="https://github.com/seregonwar/MetaForge-Compiler">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=MetaForge-Compiler&theme=midnight-purple&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td colspan="2" align="center">
-        <a href="https://github.com/seregonwar/AirWin">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=seregonwar&repo=AirWin&theme=midnight-purple&hide_border=true" />
-        </a>
-      </td>
-    </tr>
-  </table>
-
-  <br/>
+| Project | Description |
+|--------|-------------|
+| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 Advanced PS4 PKG manager & file inspector |
+| [**MetaForge**](https://github.com/seregonwar/MetaForge) | 🔧 Custom low-level metalanguage above ASM, below C |
+| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ Framework for core-level application logic |
+| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 Experimental compiler for MetaForge |
+| [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 Cross-platform AirDrop for Windows/PC devices |
 
 </div>
 
+---
 
-
-
-## 📊 GitHub Stats
+## 📊 GitHub Insights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=seregonwar&theme=midnight-purple&hide_border=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple" alt="Top Languages"/>
-</div>
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=seregonwar&theme=radical" alt="GitHub Trophies" width="100%" />
+  <img height="170px" src="https://github-readme-stats.vercel.app/api?username=seregonwar&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=seregonwar&theme=midnight-purple&hide_border=true"/>
+  <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
 
-<br />
+---
+
+## 🏆 Achievements
+
 <div align="center">
-  <h2>🤝 Connect</h2>
+  <img src="https://github-profile-trophy.vercel.app/?username=seregonwar&theme=radical&no-frame=true&margin-w=10&row=1&column=6" width="100%" />
+</div>
+
+---
+
+## 🌐 Connect with Me
+
+<div align="center">
   <a href="https://discord.gg/seregonwar">
-    <img src="https://img.shields.io/badge/-Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/>
+    <img src="https://img.shields.io/badge/-Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
+  </a>
 </div>
 
+---
+
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=seregonwar&style=flat-square&color=blueviolet" alt="Profile views"/>
-  <p style="font-style: italic; color: #9745F5">"If it works, don't change that shit "</p>
+  <img src="https://komarev.com/ghpvc/?username=seregonwar&style=flat-square&color=blueviolet" alt="Profile Views"/>
+  <br/>
+  <i style="color:#9745F5">"If it works, don't change that shit."</i>
 </div>
 
 ![footer](https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:222222,100:444444&height=100&section=footer)
