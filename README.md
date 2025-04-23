@@ -16,9 +16,10 @@
 
 ## 👾 About Me
 
-> I'm a **Cyber Security Engineer** and **Reverse Engineer**, specialized in low-level systems, firmware analysis, and exploit development.  
-> Currently pursuing **Computer Engineering** at *La Sapienza University of Rome*.  
-> Passionate about **PlayStation architecture**, **console modding**, and building **custom low-level tools** for research and security auditing.
+> I’m a **Cyber Security and Reverse Engineering enthusiast**, deeply interested in low-level systems, firmware analysis, and exploit development.  
+> Currently studying **Computer Engineering** at *La Sapienza University of Rome*.  
+> Passionate about **PlayStation console architecture**, **hardware/software modding**, and building **custom tools** for research and experimentation in the field of cybersecurity.
+
 
 ---
 
