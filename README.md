@@ -9,6 +9,7 @@
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeregonWar)
 [![Ko-fi](https://img.shields.io/badge/-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seregon)
 [![PayPal](https://img.shields.io/badge/-PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/seregonwar)
+[![Bitcoin](https://img.shields.io/badge/-Bitcoin-F7931A?style=for-the-badge&logo=bitcoin&logoColor=white)](bitcoin:<bc1qtq37qtz5f7vd9qgwcctz0xzq6ppgfkmvkus03v>)
 
 </div>
 
