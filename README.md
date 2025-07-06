@@ -41,7 +41,7 @@
   <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,react,arduino" />
 </div>
 
----
+
 
 ## 🧪 Tools of the Trade
 
@@ -78,7 +78,7 @@
   <img height="170px" src="https://github-readme-streak-stats.herokuapp.com/?user=seregonwar&theme=midnight-purple&hide_border=true"/>
   <img height="170px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=seregonwar&layout=compact&theme=midnight-purple&hide_border=true"/>
 </div>
----
+
 
 ## 🏆 Achievements
 
