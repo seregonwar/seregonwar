@@ -19,7 +19,7 @@
 
 > I’m a **Cyber Security and Reverse Engineering enthusiast**, deeply interested in low-level systems, firmware analysis, and exploit development.  
 > Currently studying **Computer Engineering** at *La Sapienza University of Rome*.  
-> Passionate about **PlayStation console architecture**, **hardware/software modding**, and building **custom tools** for research and experimentation in the field of cybersecurity.
+> Passionate about **PlayStation console architecture**, **hardware/software modding**, **website and database security**, and building **custom tools** for research and experimentation in the field of cybersecurity.
 
 
 ---
@@ -61,10 +61,10 @@
 
 | Project | Description |
 |--------|-------------|
-| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 Advanced PS4 PKG manager & file inspector |
+| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 Advanced Ps* PKG manager & file inspector |
 | [**MetaForge**](https://github.com/seregonwar/MetaForge) | 🔧 Custom low-level metalanguage above ASM, below C |
-| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ Framework for core-level application logic |
-| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 Experimental compiler for MetaForge |
+| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ Framework for core-level application logic - Closed Source|
+| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 Experimental compiler for MetaForge (The python version has been replaced by the c++ version)|
 | [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 Cross-platform AirDrop for Windows/PC devices |
 
 </div>
