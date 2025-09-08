@@ -4,7 +4,7 @@
 
 # 🎭 Seregon
 
-### 👨‍💻 Computer Engineer | 🕵️‍♂️ Reverse Engineer | 🎮 Console Reverse Engineer
+### 👨‍💻 Computer Engineer | 🕵️‍♂️ Reverse Engineer | 💻full stack developer
 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=x&logoColor=white)](https://x.com/SeregonWar)
 [![Ko-fi](https://img.shields.io/badge/-Support%20Me-FF5E5B?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/seregon)
