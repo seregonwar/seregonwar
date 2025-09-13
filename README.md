@@ -66,6 +66,8 @@
 | [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ Framework for core-level application logic - Closed Source|
 | [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 Experimental compiler for MetaForge (The python version has been replaced by the c++ version)|
 | [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 Cross-platform AirDrop for Windows/PC devices |
+| [**OWDL**](https://github.com/seregonwar/OWDL) | 📡 Cross-platform AWDL for all devices written in rust|
+
 
 </div>
 
