@@ -59,14 +59,17 @@
 
 <div align="center">
 
-| Project | Description |
-|--------|-------------|
-| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 Advanced Ps* PKG manager & file inspector |
-| [**MetaForge**](https://github.com/seregonwar/MetaForge) | 🔧 Custom low-level metalanguage above ASM, below C |
-| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ Framework for core-level application logic - Closed Source|
-| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 Experimental compiler for MetaForge (The python version has been replaced by the c++ version)|
-| [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 Cross-platform AirDrop for Windows/PC devices |
-| [**OWDL**](https://github.com/seregonwar/OWDL) | 📡 Cross-platform AWDL for all devices written in rust|
+| Project                                                                      | Description                                                                                                             |
+| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
+| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox)                   | 🧩 **Advanced PS* PKG manager*\* & file inspector – manage, inspect, and manipulate PKG files efficiently               |
+| [**MetaForge**](https://github.com/seregonwar/MetaForge)                     | 🔧 **Custom low-level metalanguage** above ASM, below C – for hybrid multi-language development                         |
+| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ **Framework for core-level application logic** – modular, high-performance, Closed Source                           |
+| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler)   | 🧠 **Experimental compiler for MetaForge** – C++ version replaces the old Python version                                |
+| [**AirWin**](https://github.com/seregonwar/AirWin)                           | 📡 **Cross-platform AirDrop** for Windows/PC devices – seamless file sharing                                            |
+| [**OWDL**](https://github.com/seregonwar/OWDL)                               | 🌐 **Cross-platform AWDL** written in Rust – wireless communication framework                                           |
+| [**OxideUI**](https://github.com/OxideUi/OxideUi)                            | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components, multi-language support (Python/C/C++) |
+
+
 
 
 </div>
