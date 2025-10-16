@@ -37,7 +37,7 @@
 ## 🧠 Languages & Technologies
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,swift,assembly,rust,bash" /><br/><br/>
+  <img src="https://skillicons.dev/icons?i=cpp,c,python,java,swift,rust,bash" /><br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,docker,git,vscode,react,arduino" />
 </div>
 
