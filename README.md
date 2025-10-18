@@ -66,7 +66,7 @@
 | [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ **Framework for core-level application logic** – modular, high-performance, Closed Source                           |
 | [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler)   | 🧠 **Experimental compiler for MetaForge** – C++ version replaces the old Python version                                |
 | [**AirWin**](https://github.com/seregonwar/AirWin)                           | 📡 **Cross-platform AirDrop** for Windows/PC devices – seamless file sharing                                            |
-| [**OWDL**](https://github.com/seregonwar/OWDL)                               | 🌐 **Cross-platform AWDL** written in Rust – wireless communication framework                                           |
+| [**OWDL**](https://github.com/seregonwar/OWDL)                               | 🌐 **Cross-platform AWDL** written in Rust – wireless communication framework, Closed Source                                          |
 | [**OxideUI**](https://github.com/OxideUi/OxideUi)                            | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components, multi-language support (Python/C/C++) |
 
 
