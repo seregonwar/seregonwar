@@ -59,20 +59,18 @@
 
 <div align="center">
 
-| Project                                                                      | Description                                                                                                             |
-| ---------------------------------------------------------------------------- | ----------------------------------------------------------------------------------------------------------------------- |
-| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox)                   | 🧩 **Advanced PS* PKG manager*\* & file inspector – manage, inspect, and manipulate PKG files efficiently               |
-| [**MetaForge**](https://github.com/seregonwar/MetaForge)                     | 🔧 **Custom low-level metalanguage** above ASM, below C – for hybrid multi-language development                         |
-| [**CoreBaseApplication**](https://github.com/seregonwar/CoreBaseApplication) | 🛠️ **Framework for core-level application logic** – modular, high-performance, Closed Source                           |
-| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler)   | 🧠 **Experimental compiler for MetaForge** – C++ version replaces the old Python version                                |
-| [**AirWin**](https://github.com/seregonwar/AirWin)                           | 📡 **Cross-platform AirDrop** for Windows/PC devices – seamless file sharing                                            |
-| [**OWDL**](https://github.com/seregonwar/OWDL)                               | 🌐 **Cross-platform AWDL** written in Rust – wireless communication framework, Closed Source                                          |
-| [**OxideUI**](https://github.com/OxideUi/OxideUi)                            | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components, multi-language support (Python/C/C++) |
-
-
-
+| Project | Description | ⭐ Stars | 📦 Downloads | 🏷️ Last Release |
+|--------|------------|---------|--------------|----------------|
+| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 **Advanced PS\* PKG manager & file inspector** – manage, inspect, and manipulate PKG files efficiently | ![Stars](https://img.shields.io/github/stars/seregonwar/PkgToolBox?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/PkgToolBox/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/PkgToolBox?style=flat-square) |
+| [**MetaForge**](https://github.com/seregonwar/MetaForge) | 🔧 **Custom low-level metalanguage** above ASM, below C – for hybrid multi-language development | ![Stars](https://img.shields.io/github/stars/seregonwar/MetaForge?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/MetaForge/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/MetaForge?style=flat-square) |
+| **CoreBaseApplication** | 🛠️ **Framework for core-level application logic** – modular, high-performance, Closed Source | — | — | — |
+| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 **Experimental compiler for MetaForge** – modern C++ rewrite | ![Stars](https://img.shields.io/github/stars/seregonwar/MetaForge-Compiler?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/MetaForge-Compiler/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/MetaForge-Compiler?style=flat-square) |
+| [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 **Cross-platform AirDrop for Windows/PC** – seamless file sharing | ![Stars](https://img.shields.io/github/stars/seregonwar/AirWin?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/AirWin/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/AirWin?style=flat-square) |
+| **OWDL** | 🌐 **Cross-platform AWDL** written in Rust – wireless communication framework, Closed Source | — | — | — |
+| [**OxideUI**](https://github.com/OxideUi/OxideUi) | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components | ![Stars](https://img.shields.io/github/stars/OxideUi/OxideUi?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/OxideUi/OxideUi/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/OxideUi/OxideUi?style=flat-square) |
 
 </div>
+
 
 ---
 
