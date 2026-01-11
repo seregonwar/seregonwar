@@ -24,16 +24,6 @@
 
 ---
 
-## ⚙️ Core Competencies
-
-- 🔬 Reverse Engineering & Binary Analysis  
-- 🛠️ Exploit Development & Vulnerability Research  
-- 💻 Low-Level Programming (Assembly, C/C++, Python)  
-- 🎮 Game Console Internals & Firmware Hacking  
-- 🧰 Tooling & Automation for System Security
-
----
-
 ## 🧠 Languages & Technologies
 
 <div align="center">
