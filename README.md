@@ -68,6 +68,8 @@
 | [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 **Cross-platform AirDrop for Windows/PC** – seamless file sharing | ![Stars](https://img.shields.io/github/stars/seregonwar/AirWin?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/AirWin/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/AirWin?style=flat-square) |
 | **NEXDL** | 🌐 **Cross-platform AWDL like** written in Rust – wireless communication framework, Closed Source | — | — | — |
 | [**StratoSDK**](https://github.com/StratoHQ/StratoSDK) | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components | ![Stars](https://img.shields.io/github/stars/StratoHQ/StratoSDK?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/StratoHQ/StratoSDK/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/StratoHQ/StratoSDK?style=flat-square) |
+| [**Blacksmith**](https://github.com/seregonwar/Blacksmith) |  **Deterministic Python Application Packaging Toolchain** – Build single-file executables from Python applications with automatic runtime selection - work in progress, coming soon | - | - | - |
+
 
 </div>
 
