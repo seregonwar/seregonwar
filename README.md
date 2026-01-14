@@ -49,18 +49,207 @@
 
 <div align="center">
 
-| Project | Description | ⭐ Stars | 📦 Downloads | 🏷️ Last Release |
-|--------|------------|---------|--------------|----------------|
-| [**PkgToolBox**](https://github.com/seregonwar/PkgToolBox) | 🧩 **Advanced PS\* PKG manager & file inspector** – manage, inspect, and manipulate PKG files efficiently | ![Stars](https://img.shields.io/github/stars/seregonwar/PkgToolBox?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/PkgToolBox/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/PkgToolBox?style=flat-square) |
-| [**ShadPKG**](https://github.com/seregonwar/ShadPKG) | 🔧 **A tool for deriving PKG packet encryption keys for ps4 written in c++** | ![Stars](https://img.shields.io/github/stars/seregonwar/ShadPKG?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/ShadPKG/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/ShadPKG?style=flat-square) |
-| [**PFU-PupFileUnpacker**](https://github.com/seregonwar/PFU-PupFileUnpacker) | 🔧 **PFU-PupFileUnpacker is a program that can unpack and analyze .PUP's “P* Update Package” file** | ![Stars](https://img.shields.io/github/stars/seregonwar/PFU-PupFileUnpacker?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/PFU-PupFileUnpacker/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/PFU-PupFileUnpacker?style=flat-square) |
-| [**DiscordServerCloner**](https://github.com/seregonwar/DiscordServerCloner) | 🔧 **A complete tool to copy messages, roles and everything else from any discord server.** | ![Stars](https://img.shields.io/github/stars/seregonwar/DiscordServerCloner?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/DiscordServerCloner/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/DiscordServerCloner?style=flat-square) |
-| **CoreBaseApplication** | 🛠️ **Framework for core-level application logic** – modular, high-performance, Closed Source | — | — | — |
-| [**MetaForge-Compiler**](https://github.com/seregonwar/MetaForge-Compiler) | 🧠 **Experimental compiler for MetaForge** – modern C++ rewrite | ![Stars](https://img.shields.io/github/stars/seregonwar/MetaForge-Compiler?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/MetaForge-Compiler/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/MetaForge-Compiler?style=flat-square) |
-| [**AirWin**](https://github.com/seregonwar/AirWin) | 📡 **Cross-platform AirDrop for Windows/PC** – seamless file sharing | ![Stars](https://img.shields.io/github/stars/seregonwar/AirWin?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/seregonwar/AirWin/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/seregonwar/AirWin?style=flat-square) |
-| **NEXDL** | 🌐 **Cross-platform AWDL like** written in Rust – wireless communication framework, Closed Source | — | — | — |
-| [**StratoSDK**](https://github.com/StratoHQ/StratoSDK) | 🎨 **Rust-based GUI framework** – high-performance rendering, modular components | ![Stars](https://img.shields.io/github/stars/StratoHQ/StratoSDK?style=flat-square) | ![Downloads](https://img.shields.io/github/downloads/StratoHQ/StratoSDK/total?style=flat-square) | ![Release](https://img.shields.io/github/v/release/StratoHQ/StratoSDK?style=flat-square) |
-| [**Blacksmith**](https://github.com/seregonwar/Blacksmith) |  **Deterministic Python Application Packaging Toolchain** – Build single-file executables from Python applications with automatic runtime selection - work in progress, coming soon | - | - | - |
+<table>
+<thead>
+<tr>
+<th width="300">Project</th>
+<th width="500">Description</th>
+<th width="200">Metrics</th>
+</tr>
+</thead>
+<tbody>
+
+<!-- PkgToolBox -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/PkgToolBox">
+<img src="https://img.shields.io/badge/PkgToolBox-2563eb?style=for-the-badge&logo=github&logoColor=white" alt="PkgToolBox"/>
+</a>
+</td>
+<td>
+<strong>🧩 Advanced PS* PKG Manager</strong><br/>
+<sub>Comprehensive tool for managing, inspecting, and manipulating PlayStation PKG files with advanced features</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/PkgToolBox/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/PkgToolBox?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/PkgToolBox/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/PkgToolBox?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- ShadPKG -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/ShadPKG">
+<img src="https://img.shields.io/badge/ShadPKG-7c3aed?style=for-the-badge&logo=cplusplus&logoColor=white" alt="ShadPKG"/>
+</a>
+</td>
+<td>
+<strong>🔐 PKG Encryption Key Derivation</strong><br/>
+<sub>High-performance C++ tool for deriving PS4 PKG packet encryption keys</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/ShadPKG/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/ShadPKG?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/ShadPKG/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/ShadPKG?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- PFU-PupFileUnpacker -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/PFU-PupFileUnpacker">
+<img src="https://img.shields.io/badge/PFU_Unpacker-dc2626?style=for-the-badge&logo=files&logoColor=white" alt="PFU"/>
+</a>
+</td>
+<td>
+<strong>📦 PlayStation Update Package Analyzer</strong><br/>
+<sub>Unpack and analyze .PUP files (PlayStation Update Package) with detailed inspection capabilities</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/PFU-PupFileUnpacker/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/PFU-PupFileUnpacker?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/PFU-PupFileUnpacker/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/PFU-PupFileUnpacker?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- DiscordServerCloner -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/DiscordServerCloner">
+<img src="https://img.shields.io/badge/Discord_Cloner-5865f2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Cloner"/>
+</a>
+</td>
+<td>
+<strong>💬 Complete Discord Server Replicator</strong><br/>
+<sub>Clone entire Discord servers including messages, roles, channels, permissions, and configurations</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/DiscordServerCloner/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/DiscordServerCloner?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/DiscordServerCloner/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/DiscordServerCloner?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- CoreBaseApplication -->
+<tr>
+<td>
+<img src="https://img.shields.io/badge/CoreBase-1f2937?style=for-the-badge&logo=atom&logoColor=white" alt="CoreBase"/>
+</td>
+<td>
+<strong>🛠️ Core Application Framework</strong><br/>
+<sub>Modular, high-performance framework for building core-level application logic</sub><br/>
+<img src="https://img.shields.io/badge/Status-Closed_Source-red?style=flat-square" alt="Closed Source"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Private-Repository-lightgrey?style=flat-square" alt="Private"/>
+</td>
+</tr>
+
+<!-- MetaForge-Compiler -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/MetaForge-Compiler">
+<img src="https://img.shields.io/badge/MetaForge-ea580c?style=for-the-badge&logo=llvm&logoColor=white" alt="MetaForge"/>
+</a>
+</td>
+<td>
+<strong>🧠 Experimental Compiler Infrastructure</strong><br/>
+<sub>Modern C++ rewrite of the MetaForge compiler with enhanced optimization capabilities</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/MetaForge-Compiler/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/MetaForge-Compiler?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/MetaForge-Compiler/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/MetaForge-Compiler?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- AirWin -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/AirWin">
+<img src="https://img.shields.io/badge/AirWin-06b6d4?style=for-the-badge&logo=windows&logoColor=white" alt="AirWin"/>
+</a>
+</td>
+<td>
+<strong>📡 Cross-Platform File Sharing</strong><br/>
+<sub>AirDrop-like functionality for Windows/PC with seamless cross-platform file transfer</sub>
+</td>
+<td>
+<a href="https://github.com/seregonwar/AirWin/stargazers">
+<img src="https://img.shields.io/github/stars/seregonwar/AirWin?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/seregonwar/AirWin/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/seregonwar/AirWin?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- NEXDL -->
+<tr>
+<td>
+<img src="https://img.shields.io/badge/NEXDL-f97316?style=for-the-badge&logo=rust&logoColor=white" alt="NEXDL"/>
+</td>
+<td>
+<strong>🌐 Wireless Communication Framework</strong><br/>
+<sub>Cross-platform AWDL-like implementation written in Rust for advanced wireless protocols</sub><br/>
+<img src="https://img.shields.io/badge/Status-Closed_Source-red?style=flat-square" alt="Closed Source"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Private-Repository-lightgrey?style=flat-square" alt="Private"/>
+</td>
+</tr>
+
+<!-- StratoSDK -->
+<tr>
+<td>
+<a href="https://github.com/StratoHQ/StratoSDK">
+<img src="https://img.shields.io/badge/StratoSDK-8b5cf6?style=for-the-badge&logo=rust&logoColor=white" alt="StratoSDK"/>
+</a>
+</td>
+<td>
+<strong>🎨 High-Performance GUI Framework</strong><br/>
+<sub>Rust-based GUI framework featuring advanced rendering and modular component architecture</sub>
+</td>
+<td>
+<a href="https://github.com/StratoHQ/StratoSDK/stargazers">
+<img src="https://img.shields.io/github/stars/StratoHQ/StratoSDK?style=social" alt="Stars"/>
+</a><br/>
+<img src="https://img.shields.io/github/downloads/StratoHQ/StratoSDK/total?style=flat-square&color=success" alt="Downloads"/><br/>
+<img src="https://img.shields.io/github/v/release/StratoHQ/StratoSDK?style=flat-square&color=blue" alt="Release"/>
+</td>
+</tr>
+
+<!-- Blacksmith -->
+<tr>
+<td>
+<a href="https://github.com/seregonwar/Blacksmith">
+<img src="https://img.shields.io/badge/Blacksmith-0891b2?style=for-the-badge&logo=python&logoColor=white" alt="Blacksmith"/>
+</a>
+</td>
+<td>
+<strong>⚒️ Python Packaging Toolchain</strong><br/>
+<sub>Deterministic build system for creating single-file Python executables with automatic runtime selection</sub><br/>
+<img src="https://img.shields.io/badge/Status-Work_in_Progress-yellow?style=flat-square" alt="WIP"/>
+</td>
+<td align="center">
+<img src="https://img.shields.io/badge/Coming-Soon-orange?style=flat-square" alt="Coming Soon"/>
+</td>
+</tr>
+
+</tbody>
+</table>
+
+</div>
 
 
 </div>
