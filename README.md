@@ -274,13 +274,6 @@
 
 ---
 
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://discord.gg/seregonwar">
-    <img src="https://img.shields.io/badge/-Join%20My%20Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord Server"/>
-  </a>
-</div>
 
 
 
