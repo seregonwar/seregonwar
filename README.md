@@ -110,7 +110,15 @@
     <img src="https://imrf.vercel.app/api/badge?metric=release_downloads_total&github=seregonwar/ShadPKG&label=Downloads&color=1f6feb&cacheSeconds=300"/>
   </td>
 </tr>
-
+<tr>
+  <td><a href="https://github.com/seregonwar/zftpd"><b>zftpd</b></a></td>
+  <td><img src="https://img.shields.io/badge/C-3776AB?style=flat-square&logo=c&logoColor=white"/></td>
+  <td>Zero-copy FTP/HTTP Daemon compatible with all POSIX systems</td>
+  <td align="center">
+    <img src="https://imrf.vercel.app/api/badge?label=Status&status=Active&color=00ba55"/><br/>
+    <img src="https://imrf.vercel.app/api/badge?metric=release_downloads_total&github=seregonwar/zftpd&label=Downloads&color=1f6feb&cacheSeconds=300"/>
+  </td>
+</tr>
 <tr>
   <td><a href="https://github.com/seregonwar/PFU-PupFileUnpacker"><b>PFU Unpacker</b></a></td>
   <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
