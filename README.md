@@ -160,7 +160,7 @@
 </tr>
 
 <tr>
-  <td><a href="https://github.com/seregonwar/DiscordServerCloner"><b>Discord Cloner</b></a></td>
+  <td><a href="https://github.com/seregonwar/DiscordServerManager"><b>Discord Manager</b></a></td>
   <td><img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/></td>
   <td>Full Discord server replication — channels, roles, permissions, webhooks, messages and emojis</td>
   <td align="center">
