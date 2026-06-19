@@ -66,6 +66,7 @@
 
 **Reverse Engineering**
 
+![MemDBG](https://img.shields.io/badge/MemDBG-CC3333?style=for-the-badge&logoColor=white)
 ![IDA Pro](https://img.shields.io/badge/IDA%20Pro-8000FF?style=for-the-badge&logoColor=white)
 ![Ghidra](https://img.shields.io/badge/Ghidra-401070?style=for-the-badge&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
